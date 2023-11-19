@@ -21,6 +21,8 @@
 <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight)
+
 <br>
 <br>
 
