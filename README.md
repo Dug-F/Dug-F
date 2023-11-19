@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=435&lines=Hi%2C+I'm+Doug%2C+full+stack+developer)](https://git.io/typing-svg)
-> Any sufficiently advanced technology is indistinguishable from magic. &nbsp;&mdash; <cite><span style="font-size: smaller;">Arthur C. Clarke</span></cite>
+> Any sufficiently advanced technology is indistinguishable from magic. &nbsp;&mdash; <cite>*Arthur C. Clarke*</cite>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
