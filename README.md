@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=435&lines=Hi%2C+I'm+Doug%2C+full+stack+developer)](https://git.io/typing-svg)
+> Any sufficiently advanced technology is indistinguishable from magic. &nbsp;&mdash; <cite><span style="font-size: smaller;">Arthur C. Clarke</span></cite>
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m about to start an intensive 16-week web development course with the School of Code
