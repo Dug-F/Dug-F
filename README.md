@@ -8,17 +8,19 @@
 
 ### 👨‍💻 Technologies
 
-<a href="https://python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </a>
-<a href="https://typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png"></a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" align="left" alt="PostgreSQL" height='42px'/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" align="left" alt="PostgreSQL" height='42px'/> </a>
+[<img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">](https://github.com/dug-f)
+[<img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">](https://github.com/dug-f)
+[<img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">](https://github.com/dug-f)
+[<img alt="react" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg">](https://github.com/dug-f)
+[<img alt="node.js" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg">](https://github.com/dug-f)
+[<img alt="python" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">](https://github.com/dug-f)
+[<img alt="html5" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">](https://github.com/dug-f)
+[<img alt="css3" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg">](https://github.com/dug-f)
+[<img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">](https://github.com/dug-f)
+[<img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">](https://github.com/dug-f)
+[<img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">](https://github.com/dug-f)
 
-<br>
-<br>
-<br>
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight)
