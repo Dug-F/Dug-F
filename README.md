@@ -1,7 +1,7 @@
 > Any sufficiently advanced technology is indistinguishable from magic. &nbsp;&mdash; <cite>*Arthur C. Clarke*</cite>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=435&lines=Hi%2C+I'm+Doug%2C+full+stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=435&lines=Hi%2C+I'm+Doug%2C+a+full+stack+developer)](https://git.io/typing-svg)
 - 🛠️ I’m currently working as a full stack web developer at the School of Code
 
 <br>
