@@ -2,7 +2,7 @@
 <br>
 
 <div style="display: inline_block"  align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=280&lines=Hi%2C+I'm+Doug%2C+a+full+stack+developer" alt='I'm Doug, a full stack developer>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=270&lines=Hi%2C+I'm+Doug%2C+a+full+stack+developer" alt='I'm Doug, a full stack developer>
 </div>
 - 🛠️ I’m currently working as a full stack web developer at the School of Code
 
