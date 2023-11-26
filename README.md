@@ -34,6 +34,7 @@ These are some of the projects I have built, both at the School of Code and as p
 In the read me of each project you can find more information.
 
 <div align="center">
+
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
 | Rock, Paper, Scissors | [Github](https://github.com/Archianne/rock-paper-scissors) | [Demo](https://archianne.github.io/rock-paper-scissors/) | Javascript, Scss     |
@@ -47,6 +48,7 @@ In the read me of each project you can find more information.
 |           Memory Game | [Github](https://github.com/Archianne/memory-game)         | [Demo](https://archianne.github.io/memory-game/)         | Javascript, CSS      |
 |            To do List | [Github](https://github.com/Archianne/to-do-list)          | [Demo](https://archianne.github.io/to-do-list/)          | Javascript, CSS      |
 |          Connect Four | [Github](https://github.com/Archianne/connect-four)        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
+
 </div>
 
 ##
