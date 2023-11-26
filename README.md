@@ -32,11 +32,13 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 <h3>Selection of Projects</h3>
 These are some of the projects I have built, both at the School of Code and as personal projects
 In the read me of each project you can find more information.
+<br>
+<br>
 
 <div align="center">
 
 |               Project |                                                            |                                                          | Tech                 |
-|----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
+|:---------------------:|:----------------------------------------------------------:|:--------------------------------------------------------:|:--------------------:|
 | Rock, Paper, Scissors | [Github](https://github.com/Archianne/rock-paper-scissors) | [Demo](https://archianne.github.io/rock-paper-scissors/) | Javascript, Scss     |
 |          Google Clone | [Github](https://github.com/Archianne/google-clone)        | [Demo](https://archianne.github.io/google-clone)         | Javascript, Scss     |
 |         Password Lock | [Github](https://github.com/Archianne/password-lock)       | [Demo](https://archianne.github.io/password-lock)        | Javascript, Scss     |
@@ -50,9 +52,6 @@ In the read me of each project you can find more information.
 |          Connect Four | [Github](https://github.com/Archianne/connect-four)        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
 
 </div>
-
-##
-
 <hr>
 <br>
 <div style="display: inline_block"  align="center">
