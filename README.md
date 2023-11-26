@@ -29,6 +29,28 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 <img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">
 <img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">
 
+<h3>Selection of Projects</h3>
+These are some of the projects I have built, both at the School of Code and as personal projects
+In the read me of each project you can find more information.
+
+<div align="center">
+|               Project |                                                            |                                                          | Tech                 |
+|----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
+| Rock, Paper, Scissors | [Github](https://github.com/Archianne/rock-paper-scissors) | [Demo](https://archianne.github.io/rock-paper-scissors/) | Javascript, Scss     |
+|          Google Clone | [Github](https://github.com/Archianne/google-clone)        | [Demo](https://archianne.github.io/google-clone)         | Javascript, Scss     |
+|         Password Lock | [Github](https://github.com/Archianne/password-lock)       | [Demo](https://archianne.github.io/password-lock)        | Javascript, Scss     |
+|       Higher Or Lower | [Github](https://github.com/Archianne/higher-or-lower)     | [Demo](https://archianne.github.io/higher-or-lower)      | Javascript, Scss     |
+|        Drawing canvas | [Github](https://github.com/Archianne/drawing-canvas)      | [Demo](https://archianne.github.io/drawing-canvas)       | Javascript, CSS, PWA |
+|   Noughts and Crosses | [Github](https://github.com/Archianne/noughts-and-crosses) | [Demo](https://archianne.github.io/noughts-and-crosses/) | Javascript, CSS      |
+|         Fetch Recipes | [Github](https://github.com/Archianne/fetch-recipes)       | [Demo](https://archianne.github.io/fetch-recipes/)       | Javascript, CSS      |
+|           Whac A Mole | [Github](https://github.com/Archianne/whac-a-mole)         | [Demo](https://archianne.github.io/whac-a-mole/)         | Javascript, CSS      |
+|           Memory Game | [Github](https://github.com/Archianne/memory-game)         | [Demo](https://archianne.github.io/memory-game/)         | Javascript, CSS      |
+|            To do List | [Github](https://github.com/Archianne/to-do-list)          | [Demo](https://archianne.github.io/to-do-list/)          | Javascript, CSS      |
+|          Connect Four | [Github](https://github.com/Archianne/connect-four)        | [Demo](https://archianne.github.io/connect-four/)        | Javascript, CSS      |
+</div>
+
+##
+
 <hr>
 <br>
 <div style="display: inline_block"  align="center">
