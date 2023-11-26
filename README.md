@@ -16,7 +16,6 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 
 <h3 align="center">Technologies and Tools</h3>
 
-
 <img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 <img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">
 <img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">
