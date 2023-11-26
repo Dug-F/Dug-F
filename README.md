@@ -9,17 +9,17 @@
 <h3 align="center">Technologies and Tools</h3>
 
 <div style="display: inline_block" align="center">
-[<img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">](https://github.com/dug-f)
-[<img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">](https://github.com/dug-f)
-[<img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">](https://github.com/dug-f)
-[<img alt="react" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg">](https://github.com/dug-f)
-[<img alt="node.js" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg">](https://github.com/dug-f)
-[<img alt="python" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">](https://github.com/dug-f)
-[<img alt="html5" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">](https://github.com/dug-f)
-[<img alt="css3" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg">](https://github.com/dug-f)
-[<img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">](https://github.com/dug-f)
-[<img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">](https://github.com/dug-f)
-[<img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">](https://github.com/dug-f)
+<img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
+<img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">
+<img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">
+<img alt="react" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg">
+<img alt="node.js" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg">
+<img alt="python" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
+<img alt="html5" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">
+<img alt="css3" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg">
+<img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">
+<img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">
+<img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">
 </div>
 
 <br>
