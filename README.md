@@ -26,7 +26,7 @@
 <br>
 
 <div style="display: inline_block" align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight" alt="top language stats")
 </div>
 <br>
 <br>
