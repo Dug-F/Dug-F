@@ -5,6 +5,7 @@
 - 🛠️ I’m currently working as a full stack web developer at the School of Code
 
 <br>
+<hr>
 
 <h3 align="center">Technologies and Tools</h3>
 
@@ -21,7 +22,7 @@
 <img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">
 <img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">
 </div>
-
+<hr>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight)
