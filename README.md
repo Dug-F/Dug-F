@@ -9,6 +9,7 @@
 I started my career as a systems engineer before progressing into roles such as client delivery management, programme management, solutions architecting and supporting new business pursuits.  I'm now back following my passion, which is solving problems through code.  I'm currently working at the School of Code as a full stack developer, assimilating new technology rapidly and working in a collaborative environment using agile methods.
 
 <br>
+<br>
 I'm always learning: I'm currently learning dynamic programming and algorithms.
 <br>
 <hr>
