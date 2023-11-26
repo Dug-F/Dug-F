@@ -6,8 +6,9 @@
 
 <br>
 
-### 👨‍💻 Technologies
+<h3 align="center">Technologies and Tools</h3>
 
+<div style="display: inline_block" align="center">
 [<img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">](https://github.com/dug-f)
 [<img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">](https://github.com/dug-f)
 [<img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">](https://github.com/dug-f)
@@ -19,7 +20,7 @@
 [<img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">](https://github.com/dug-f)
 [<img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">](https://github.com/dug-f)
 [<img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">](https://github.com/dug-f)
-
+</div>
 
 <br>
 
