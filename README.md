@@ -6,7 +6,7 @@
 <div style="display: inline_block"  align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=270&lines=Hi%2C+I'm+Doug%2C+a+full+stack+developer" alt='I'm Doug, a full stack developer>
 </div>
-I started my career as a systems engineer before progressing into roles such as client delivery management, programme management, solutions architecting and supporting new business pursuits.  I'm now back following my passion, which is solving problems through code.  I'm currently working at the School of Code as a full stack developer, learning to assimilate new technology rapidly and work in a collaborative environment using agile methods.
+I started my career as a systems engineer before progressing into roles such as client delivery management, programme management, solutions architecting and supporting new business pursuits.  I'm now back following my passion, which is solving problems through code.  I'm currently working at the School of Code as a full stack developer, assimilating new technology rapidly and working in a collaborative environment using agile methods.
 
 <br>
 <hr>
