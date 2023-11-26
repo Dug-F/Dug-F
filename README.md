@@ -1,9 +1,11 @@
+<div style="display: inline_block"  align="center">
+
 > Any sufficiently advanced technology is indistinguishable from magic. &nbsp;&mdash; <cite>*Arthur C. Clarke*</cite>
 <br>
 
-<div style="display: inline_block"  align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=10000&pause=1000&color=228B22&random=false&width=270&lines=Hi%2C+I'm+Doug%2C+a+full+stack+developer" alt='I'm Doug, a full stack developer>
-</div>
+
 - 🛠️ I’m currently working as a full stack web developer at the School of Code
 
 <br>
@@ -11,7 +13,6 @@
 
 <h3 align="center">Technologies and Tools</h3>
 
-<div style="display: inline_block" align="center">
 <img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 <img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">
 <img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">
@@ -23,16 +24,14 @@
 <img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">
 <img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">
 <img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">
-</div>
 <hr>
 <br>
 
-<div style="display: inline_block" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dug-F&layout=compact&show_icons=true&theme=tokyonight" alt="top language stats")
-</div>
 <br>
 <br>
 
+</div>
 
 
 
