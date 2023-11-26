@@ -14,7 +14,6 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 <br>
 <hr>
 
-
 <h3 align="center">Technologies and Tools</h3>
 
 
