@@ -32,8 +32,7 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 <hr>
 
 <h3>Selection of Projects</h3>
-These are some of the projects I have built, both at the School of Code and as personal projects
-In the read me of each project you can find more information.
+These are some of the projects I have built, both at the School of Code and as personal projects. In the read me of each project you can find more information.
 <br>
 <br>
 
