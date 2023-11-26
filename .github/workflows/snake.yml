@@ -1,4 +1,4 @@
-name: Snake
+name: Update README with Snake Animation
 
 on:
   push:
@@ -6,28 +6,20 @@ on:
       - main
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: 14
+      - name: Update README
+        run: echo '![Snake animation](.github/workflows/github-snake.svg)' >> README.md
 
-    - name: Install dependencies
-      run: npm install
-
-    - name: Build and generate SVG
-      run: npm run build
-
-    - name: Commit and push changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add .
-        git commit -m "Generate snake SVG"
-        git push
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with Snake Animation"
+          git push
