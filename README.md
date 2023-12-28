@@ -16,17 +16,16 @@ I'm always learning: I'm currently learning dynamic programming and algorithms.
 
 <h3 align="center">Technologies and Tools</h3>
 
-<img alt="github" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
-<img alt="javascript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg">
-<img alt="typescript" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg">
-<img alt="react" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg">
-<img alt="node.js" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg">
-<img alt="python" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
-<img alt="html5" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">
-<img alt="css3" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg">
-<img alt="postgresql" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg">
-<img alt="java" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg">
-<img alt="c" height ="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg">
+<img alt="github" height ="60px" src="/img/github.png">
+<img alt="javascript" height ="60px" src="/img/js.png">
+<img alt="typescript" height ="60px" src="/img/ts.png"">
+<img alt="react" height ="60px" src="/img/react.png">
+<img alt="node.js" height ="60px" src="/img/node.png">
+<img alt="python" height ="60px" src="/img/python.png">
+<img alt="html5" height ="60px" src="/img/html.png">
+<img alt="css3" height ="60px" src="/img/css.png">
+<img alt="postgresql" height ="60px" src="/img/postgresql.png">
+<img alt="java" height ="60px" src="/img/java.png">
 
 <hr>
 
