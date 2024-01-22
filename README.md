@@ -52,6 +52,8 @@ These are some of the projects I have built, both at the School of Code and as p
 <br>
 <br>
 
+<img src="https://www.codewars.com/users/Dug-F/badges/micro">
+
 </div>
 
 
