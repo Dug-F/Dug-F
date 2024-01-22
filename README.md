@@ -12,7 +12,7 @@ I'm currently working at the School of Code as a full stack developer, assimilat
 
 <br>
 <br>
-I'm always learning: I'm currently learning dynamic programming and algorithms.
+I'm always learning: I'm currently learning C# as well as dynamic programming and algorithms.
 <br>
 <hr>
 
