@@ -43,6 +43,7 @@ These are some of the projects I have built, both at the School of Code and as p
 | Higher or Lower       | [Github Repo](https://github.com/Dug-F/HigherOrLowerReact)               | [Demo](https://higher-or-lower-react.onrender.com/)      | React                |                                         |
 | Circle of Fifths      | [Github Repo](https://github.com/Dug-F/CircleOfFifths)                   | [Demo](https://circle-of-fifths-8q02.onrender.com/)      | Javascript           |                                         |
 | Bootcamp Resources <br> (team project)    | [Github Frontend Repo](https://github.com/Dug-F/MidTermProjectFrontend) <br> [Github Backend Repo](https://github.com/Dug-F/MidTermProjectBackend)| [Demo](https://front-end-project.onrender.com/)      | Javascript, Express    | Backend api hibernates after inactivity <br> so may take c. 20 secs to activate on first access. <br> Presentation video including demo in project Readme|
+| Explore Solar System  | [Github Repo](https://github.com/Dug-F/ExploreSolarSystem)               | [Demo]()      | React, Javascript, Next.js                |  Currently working on this to move to Tailwind.css and Typescript |
 
 </div>
 <hr>
