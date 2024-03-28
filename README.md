@@ -24,7 +24,7 @@ I'm always learning: I'm currently learning C# as well as dynamic programming an
 <img alt="react" height ="60px" src="/img/react.png">
 <img alt="node.js" height ="60px" src="/img/node.png">
 <img alt="python" height ="60px" src="/img/python.png">
-<img alt="python" height ="60px" src="/img/csharp.png">
+<img alt="c#" height ="60px" src="/img/csharp.png">
 <img alt="html5" height ="60px" src="/img/html.png">
 <img alt="css3" height ="60px" src="/img/css.png">
 <img alt="postgresql" height ="60px" src="/img/postgresql.png">
@@ -41,11 +41,12 @@ These are some of the projects I have built, both at the School of Code and as p
 
 |               Project |                                                                     |                                                          | Tech                 | Notes                                  |
 |:---------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------:|:--------------------:|:--------------------------------------:|
+| Atedo Website         | [Github Repo](https://github.com/Dug-F/atedo) | [Test Site](https://atedo.vercel.app/)      | Next.js, React, TypeScript, Tailwind  | Volunteer project to build a website for a client stakeholder.  Currently a project in progress.  |
 | Higher or Lower       | [Github Repo](https://github.com/Dug-F/HigherOrLowerReact)               | [Demo](https://higher-or-lower-react.onrender.com/)      | React                |                                         |
 | Circle of Fifths      | [Github Repo](https://github.com/Dug-F/CircleOfFifths)                   | [Demo](https://circle-of-fifths-8q02.onrender.com/)      | Javascript           |                                         |
+| Tic Tac Toe       | [Github Repo](https://github.com/Dug-F/TicTacToe)               | [Demo](https://tic-tac-toe-iota-sand.vercel.app/)      | React                | My first machine-learning project  |
 | Bootcamp Resources <br> (team project)    | [Github Frontend Repo](https://github.com/Dug-F/MidTermProjectFrontend) <br> [Github Backend Repo](https://github.com/Dug-F/MidTermProjectBackend)| [Demo](https://front-end-project.onrender.com/)      | Javascript, Express    | Backend api hibernates after inactivity <br> so may take c. 20 secs to activate on first access. <br> Presentation video including demo in project Readme|
 | Explore Solar System <br> (team project)  | [Github Repo](https://github.com/Dug-F/ExploreSolarSystemTs)               | [Demo](https://explore-solar-system-ts.vercel.app/)      | React, Javascript, Typescript, TailwindNext.js                |  Original project upgraded to include Typescript and Tailwind |
-| Tic Tac Toe       | [Github Repo](https://github.com/Dug-F/TicTacToe)               | [Demo](https://tic-tac-toe-iota-sand.vercel.app/)      | React                | My first machine-learning project  |
 
 </div>
 <hr>
