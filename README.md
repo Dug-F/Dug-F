@@ -41,7 +41,8 @@ These are some of the projects I have built, both at the School of Code and as p
 
 |               Project |                                                                     |                                                          | Tech                 | Notes                                  |
 |:---------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------:|:--------------------:|:--------------------------------------:|
-| Atedo Website         | [Github Repo](https://github.com/Dug-F/atedo) | [Test Site](https://atedo.vercel.app/)      | Next.js, React, TypeScript, Tailwind  | Volunteer project to build a website for a client stakeholder.  Currently a project in progress.  |
+| Synaptic Quiz         | [Github Repo](https://github.com/Dug-F/Synaptic)    |         | Python, Django, Django Channels, JavaScript, Redis  | Multi-player quiz with a host of features |
+| Atedo         | [Github Repo](https://github.com/Dug-F/atedo) | [Test Site](https://atedo.vercel.app/)      | Next.js, React, TypeScript, Tailwind  | Volunteer project to build a marketing website for a client stakeholder.  Currently a project in progress.  |
 | Circle of Fifths      | [Github Repo](https://github.com/Dug-F/CircleOfFifths)                   | [Demo](https://circle-of-fifths-8q02.onrender.com/)      | Javascript           |                                         |
 | Cookies Cookbook       | [Github Repo](https://github.com/Dug-F/CookiesCookbook) |                                             | C# .NET                               | C# object orientation challenge project  |
 | Higher or Lower       | [Github Repo](https://github.com/Dug-F/HigherOrLowerReact)               | [Demo](https://higher-or-lower-react.onrender.com/)      | React                |                                         |
